@@ -35,7 +35,7 @@ Orientation was an enum this would be avoided, and the `OrientationFactory` clas
 be necessary.
 
 ## Usage
-Simply call the `main` method inside the `Main` class, providing a String with the input.
+Simply call the `main` method inside the `Main` class, providing a String with the path of the file where the input is stored.
 You can also import the project in your IDE and invoke the `main` method, or execute the test
 in the `MainTest` class, providing the input that would like to test.
 
